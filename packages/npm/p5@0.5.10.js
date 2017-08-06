@@ -1,0 +1,1 @@
+module.exports = require("npm:p5@0.5.10/lib/p5.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:resolve@1.3.3/index.js");

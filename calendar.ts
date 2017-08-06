@@ -28,7 +28,7 @@ export const behaviorsByID = [
   /* 20 */ 'momath-logo',
   /* 21 */ 'life',
   /* 22 */ 'gravity',
-  /* 23 */ 'maximal-graph',
+  /* 23 */ 'orbit',
 ];
 
 const fallback = ['nltmaze', 'sokoban', 'balloon', 'voronoi-color', 'icemaze', 'spanning-tree'];
