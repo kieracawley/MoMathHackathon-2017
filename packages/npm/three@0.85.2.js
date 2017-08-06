@@ -1,1 +1,0 @@
-module.exports = require("npm:three@0.85.2/build/three.js");

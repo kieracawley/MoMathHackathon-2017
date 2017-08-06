@@ -1,1 +1,0 @@
-module.exports = require("npm:awesomplete@1.1.1/awesomplete.js");
